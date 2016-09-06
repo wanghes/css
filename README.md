@@ -1,4 +1,2 @@
-css
-===
-
-This is an css folder
+#typeScript
+###2分钟上手typeScript
